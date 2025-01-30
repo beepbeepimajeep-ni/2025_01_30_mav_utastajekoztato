@@ -6,3 +6,6 @@ table {
 /* betűtípus */
     font-size: larger; /* betűméret */
   }
+  td{
+    background-color: bisque;
+  }
