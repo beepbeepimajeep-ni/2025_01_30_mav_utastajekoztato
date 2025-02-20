@@ -1,6 +1,6 @@
 table {
     border: 1px solid;
-    background-color: rgb(254, 0, 144);
+    background-color: rgb(122, 119, 85);
     /* color: chartreuse; betűszín */
     font-family: 'Courier New', Courier, monospace;
 /* betűtípus */
@@ -10,11 +10,15 @@ table {
     background-color: bisque;
     
   }
+  th {
+    border-collapse: collapse;
+    border: 1px solid;
+  }
 
 #keses {
-  background-color: rgb(242, 196, 162);
+  background-color: rgb(235, 206, 185);
 }
 
 .elso_oszlop{
-  background-color: rgb(182, 47, 119);
+  background-color: rgb(53, 218, 190);
 }
