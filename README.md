@@ -1,12 +1,15 @@
 ### MÁV utastájékoztató
-Ez a projekt egy egyszerű webes felületet biztosít a MÁV vonatindulások és érkezések megjelenítésére. A weboldal **HTML** és **CSS** segítségével készült, és egy táblázatos formátumban jeleníti meg az aktuális menetrendet. 
+Ez a projekt megjeleníti az aktuális menetrendet
 ![githublogo] (github_logo.png)
 
 ### 📌 Funkciók
     -🚝Közlekedő vonatok
     -🕐Érkezési idők
     -🎨Modern dizájn
+    - Barta Sándor telefonszáma
 
+### ❤️ Valós idejű, másodpercre pontos menetrendek.
+Az URL-re kattintva megkapod az információt: `https://beepbeepimajeep-ni.github.io/2025_01_30_mav_utastajekoztato/`
 
 ### 🚀 Használat
 Nyisd meg a `https://beepbeepimajeep-ni.github.io/2025_01_30_mav_utastajekoztato/` weboldalt az adatokhoz.
@@ -14,7 +17,7 @@ Nyisd meg a `https://beepbeepimajeep-ni.github.io/2025_01_30_mav_utastajekoztato
 Élőben megtekinthető:
 [🎟MÁV Utastájékoztató](https://beepbeepimajeep-ni.github.io/2025_01_30_mav_utastajekoztato/)
 
-### 👩‍💻 Alap HTML szerkezet
+### 👩‍💻 Alap HTML szerkezet (Barta Sándor Informatikus)
 ```html
 <!DOCTYPE html>
 <html lang="hu">
@@ -67,7 +70,12 @@ Nyisd meg a `https://beepbeepimajeep-ni.github.io/2025_01_30_mav_utastajekoztato
      }
      ```
 
-     ###🔧 Fejlesztési lehetőségek
+     ### 🔧 Fejlesztési lehetőségek
      - [ ] 🔁 Adatbetöltés API-n keresztül
      - [ ] 🔍 Keresési lehetőségek
      - [x] 📱 Reszponzív megjelenítés mobileszközökre
+
+     ### 😘 Updates:
+     - () Új HTMl szín
+     - () Ergonómikus színek, amik javitsák a látásod!
+     - () Reszponzív weboldal telefonra és tabletre egyaránt.
